@@ -4,6 +4,6 @@ Nothing to see yet.
 Zelda Breath Of The Wild
 HOLLOW KNIGHT!! (also Fire Emblem which is hopefully releasing their new game this)
 ## How to build
-You can't.
+write code, create assets, hope it works fine together
 ## How to run
 idk, does anyone know?
