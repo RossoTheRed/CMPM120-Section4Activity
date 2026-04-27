@@ -1,7 +1,7 @@
 ## About this project
 Nothing to see yet.
 ## Our favourite games
-None. We hate games.
+- The Legend Of Zelda: Breath Of The Wild
 ## How to build
 You can't.
 ## How to run
