@@ -4,3 +4,5 @@ Nothing to see yet.
 None. We hate games.
 ## How to build
 You can't.
+## How to run
+idk, does anyone know?
